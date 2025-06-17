@@ -9,7 +9,7 @@ A simple login page built using **Python (Flask)**, **HTML**, and **CSS**.
 - 🧭 Basic login and dashboard routing
 
 ## 📂 Project Structure
-*Zentix/
+*Zentix*
 - app.py # Flask application
 - index.html # Login page (frontend)
 - dashboard.html # Dashboard page (frontend)
