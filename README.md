@@ -21,7 +21,6 @@ A simple login page built using **Python (Flask)**, **HTML**, and **CSS**.
 - Flask
 - HTML/CSS
 - VS Code
-- Git & GitHub
 - ChatGPT (for guidance & debugging)
 
 ## 📌 How to Run
